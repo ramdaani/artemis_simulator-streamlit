@@ -29,7 +29,7 @@ Caching System: Data dari NASA disimpan secara lokal untuk mempercepat eksekusi 
 
 ## 📊 Penjelasan Output & Rute
 
-![Artemis 2 Simulation Output](assets/newplot.png)
+![Artemis 2 Simulation Output](/src/assets/newplot.png)
 
 Hasil output visualisasi menampilkan tiga komponen utama:
 
